@@ -1,0 +1,7 @@
+U:\Apr\Projekte\Fariablen\Fariablen\obj\Debug\Fariablen.csprojAssemblyReference.cache
+U:\Apr\Projekte\Fariablen\Fariablen\obj\Debug\Fariablen.csproj.CoreCompileInputs.cache
+U:\Apr\Projekte\Fariablen\Fariablen\bin\Debug\Fariablen.exe.config
+U:\Apr\Projekte\Fariablen\Fariablen\bin\Debug\Fariablen.exe
+U:\Apr\Projekte\Fariablen\Fariablen\bin\Debug\Fariablen.pdb
+U:\Apr\Projekte\Fariablen\Fariablen\obj\Debug\Fariablen.exe
+U:\Apr\Projekte\Fariablen\Fariablen\obj\Debug\Fariablen.pdb

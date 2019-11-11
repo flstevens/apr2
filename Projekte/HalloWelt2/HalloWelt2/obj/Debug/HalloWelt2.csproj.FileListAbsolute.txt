@@ -1,0 +1,7 @@
+U:\Apr\Projekte\HalloWelt2\HalloWelt2\bin\Debug\HalloWelt2.exe.config
+U:\Apr\Projekte\HalloWelt2\HalloWelt2\bin\Debug\HalloWelt2.exe
+U:\Apr\Projekte\HalloWelt2\HalloWelt2\bin\Debug\HalloWelt2.pdb
+U:\Apr\Projekte\HalloWelt2\HalloWelt2\obj\Debug\HalloWelt2.csprojAssemblyReference.cache
+U:\Apr\Projekte\HalloWelt2\HalloWelt2\obj\Debug\HalloWelt2.csproj.CoreCompileInputs.cache
+U:\Apr\Projekte\HalloWelt2\HalloWelt2\obj\Debug\HalloWelt2.exe
+U:\Apr\Projekte\HalloWelt2\HalloWelt2\obj\Debug\HalloWelt2.pdb

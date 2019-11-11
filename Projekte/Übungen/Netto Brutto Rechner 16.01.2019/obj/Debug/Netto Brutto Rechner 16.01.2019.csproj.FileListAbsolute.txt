@@ -1,0 +1,7 @@
+U:\Apr\Projekte\Übungen\Netto Brutto Rechner 16.01.2019\bin\Debug\Netto Brutto Rechner 16.01.2019.exe.config
+U:\Apr\Projekte\Übungen\Netto Brutto Rechner 16.01.2019\bin\Debug\Netto Brutto Rechner 16.01.2019.exe
+U:\Apr\Projekte\Übungen\Netto Brutto Rechner 16.01.2019\bin\Debug\Netto Brutto Rechner 16.01.2019.pdb
+U:\Apr\Projekte\Übungen\Netto Brutto Rechner 16.01.2019\obj\Debug\Netto Brutto Rechner 16.01.2019.csproj.CoreCompileInputs.cache
+U:\Apr\Projekte\Übungen\Netto Brutto Rechner 16.01.2019\obj\Debug\Netto Brutto Rechner 16.01.2019.exe
+U:\Apr\Projekte\Übungen\Netto Brutto Rechner 16.01.2019\obj\Debug\Netto Brutto Rechner 16.01.2019.pdb
+U:\Apr\Projekte\Übungen\Netto Brutto Rechner 16.01.2019\obj\Debug\Netto Brutto Rechner 16.01.2019.csprojAssemblyReference.cache

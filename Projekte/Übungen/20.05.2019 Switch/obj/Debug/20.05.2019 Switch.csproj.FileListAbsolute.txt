@@ -1,0 +1,7 @@
+U:\Apr\Projekte\Übungen\20.05.2019 Switch\bin\Debug\20.05.2019 Switch.exe.config
+U:\Apr\Projekte\Übungen\20.05.2019 Switch\bin\Debug\20.05.2019 Switch.exe
+U:\Apr\Projekte\Übungen\20.05.2019 Switch\bin\Debug\20.05.2019 Switch.pdb
+U:\Apr\Projekte\Übungen\20.05.2019 Switch\obj\Debug\20.05.2019 Switch.csproj.CoreCompileInputs.cache
+U:\Apr\Projekte\Übungen\20.05.2019 Switch\obj\Debug\20.05.2019 Switch.exe
+U:\Apr\Projekte\Übungen\20.05.2019 Switch\obj\Debug\20.05.2019 Switch.pdb
+U:\Apr\Projekte\Übungen\20.05.2019 Switch\obj\Debug\20.05.2019 Switch.csprojAssemblyReference.cache

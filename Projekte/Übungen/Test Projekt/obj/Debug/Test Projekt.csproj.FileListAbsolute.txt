@@ -1,0 +1,6 @@
+U:\Apr\Projekte\Übungen\Test Projekt\bin\Debug\Test Projekt.exe.config
+U:\Apr\Projekte\Übungen\Test Projekt\bin\Debug\Test Projekt.exe
+U:\Apr\Projekte\Übungen\Test Projekt\bin\Debug\Test Projekt.pdb
+U:\Apr\Projekte\Übungen\Test Projekt\obj\Debug\Test Projekt.csproj.CoreCompileInputs.cache
+U:\Apr\Projekte\Übungen\Test Projekt\obj\Debug\Test Projekt.exe
+U:\Apr\Projekte\Übungen\Test Projekt\obj\Debug\Test Projekt.pdb

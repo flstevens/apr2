@@ -1,0 +1,7 @@
+U:\Apr\Projekte\Übungen\01.07.2019 object orientierung\bin\Debug\01.07.2019 object orientierung.exe.config
+U:\Apr\Projekte\Übungen\01.07.2019 object orientierung\bin\Debug\01.07.2019 object orientierung.exe
+U:\Apr\Projekte\Übungen\01.07.2019 object orientierung\bin\Debug\01.07.2019 object orientierung.pdb
+U:\Apr\Projekte\Übungen\01.07.2019 object orientierung\obj\Debug\01.07.2019 object orientierung.csprojAssemblyReference.cache
+U:\Apr\Projekte\Übungen\01.07.2019 object orientierung\obj\Debug\01.07.2019 object orientierung.csproj.CoreCompileInputs.cache
+U:\Apr\Projekte\Übungen\01.07.2019 object orientierung\obj\Debug\01.07.2019 object orientierung.exe
+U:\Apr\Projekte\Übungen\01.07.2019 object orientierung\obj\Debug\01.07.2019 object orientierung.pdb

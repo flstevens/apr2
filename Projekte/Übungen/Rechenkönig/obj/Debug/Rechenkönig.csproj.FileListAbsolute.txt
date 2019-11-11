@@ -1,0 +1,7 @@
+U:\Apr\Projekte\Übungen\Rechenkönig\bin\Debug\Rechenkönig.exe.config
+U:\Apr\Projekte\Übungen\Rechenkönig\bin\Debug\Rechenkönig.exe
+U:\Apr\Projekte\Übungen\Rechenkönig\bin\Debug\Rechenkönig.pdb
+U:\Apr\Projekte\Übungen\Rechenkönig\obj\Debug\Rechenkönig.csprojAssemblyReference.cache
+U:\Apr\Projekte\Übungen\Rechenkönig\obj\Debug\Rechenkönig.csproj.CoreCompileInputs.cache
+U:\Apr\Projekte\Übungen\Rechenkönig\obj\Debug\Rechenkönig.exe
+U:\Apr\Projekte\Übungen\Rechenkönig\obj\Debug\Rechenkönig.pdb

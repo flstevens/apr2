@@ -1,0 +1,7 @@
+U:\Apr\Projekte\Übungen\Pokepro\bin\Debug\Pokepro.exe.config
+U:\Apr\Projekte\Übungen\Pokepro\bin\Debug\Pokepro.exe
+U:\Apr\Projekte\Übungen\Pokepro\bin\Debug\Pokepro.pdb
+U:\Apr\Projekte\Übungen\Pokepro\obj\Debug\Pokepro.csprojAssemblyReference.cache
+U:\Apr\Projekte\Übungen\Pokepro\obj\Debug\Pokepro.csproj.CoreCompileInputs.cache
+U:\Apr\Projekte\Übungen\Pokepro\obj\Debug\Pokepro.exe
+U:\Apr\Projekte\Übungen\Pokepro\obj\Debug\Pokepro.pdb

@@ -1,0 +1,7 @@
+U:\Apr\Projekte\Übungen\10.04.2019 Zapfenrechnen\bin\Debug\10.04.2019 Zapfenrechnen.exe.config
+U:\Apr\Projekte\Übungen\10.04.2019 Zapfenrechnen\bin\Debug\10.04.2019 Zapfenrechnen.exe
+U:\Apr\Projekte\Übungen\10.04.2019 Zapfenrechnen\bin\Debug\10.04.2019 Zapfenrechnen.pdb
+U:\Apr\Projekte\Übungen\10.04.2019 Zapfenrechnen\obj\Debug\10.04.2019 Zapfenrechnen.csproj.CoreCompileInputs.cache
+U:\Apr\Projekte\Übungen\10.04.2019 Zapfenrechnen\obj\Debug\10.04.2019 Zapfenrechnen.exe
+U:\Apr\Projekte\Übungen\10.04.2019 Zapfenrechnen\obj\Debug\10.04.2019 Zapfenrechnen.pdb
+U:\Apr\Projekte\Übungen\10.04.2019 Zapfenrechnen\obj\Debug\10.04.2019 Zapfenrechnen.csprojAssemblyReference.cache

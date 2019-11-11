@@ -1,0 +1,6 @@
+U:\Apr\Projekte\Übungen\Arbeitsauftrag 20.4.2019\obj\Debug\Arbeitsauftrag 20.4.2019.csproj.CoreCompileInputs.cache
+U:\Apr\Projekte\Übungen\Arbeitsauftrag 20.4.2019\bin\Debug\Arbeitsauftrag 20.4.2019.exe.config
+U:\Apr\Projekte\Übungen\Arbeitsauftrag 20.4.2019\bin\Debug\Arbeitsauftrag 20.4.2019.exe
+U:\Apr\Projekte\Übungen\Arbeitsauftrag 20.4.2019\bin\Debug\Arbeitsauftrag 20.4.2019.pdb
+U:\Apr\Projekte\Übungen\Arbeitsauftrag 20.4.2019\obj\Debug\Arbeitsauftrag 20.4.2019.exe
+U:\Apr\Projekte\Übungen\Arbeitsauftrag 20.4.2019\obj\Debug\Arbeitsauftrag 20.4.2019.pdb

@@ -1,0 +1,7 @@
+U:\Apr\Projekte\Übungen\Fuß-O-Mat\obj\Debug\Fuß-O-Mat.csprojAssemblyReference.cache
+U:\Apr\Projekte\Übungen\Fuß-O-Mat\obj\Debug\Fuß-O-Mat.csproj.CoreCompileInputs.cache
+U:\Apr\Projekte\Übungen\Fuß-O-Mat\bin\Debug\Fuß-O-Mat.exe.config
+U:\Apr\Projekte\Übungen\Fuß-O-Mat\bin\Debug\Fuß-O-Mat.exe
+U:\Apr\Projekte\Übungen\Fuß-O-Mat\bin\Debug\Fuß-O-Mat.pdb
+U:\Apr\Projekte\Übungen\Fuß-O-Mat\obj\Debug\Fuß-O-Mat.exe
+U:\Apr\Projekte\Übungen\Fuß-O-Mat\obj\Debug\Fuß-O-Mat.pdb

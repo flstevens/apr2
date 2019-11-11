@@ -1,0 +1,6 @@
+U:\Apr\Projekte\Übungen\SÜ 12.12.2018\bin\Debug\SÜ 12.12.2018.exe.config
+U:\Apr\Projekte\Übungen\SÜ 12.12.2018\bin\Debug\SÜ 12.12.2018.exe
+U:\Apr\Projekte\Übungen\SÜ 12.12.2018\bin\Debug\SÜ 12.12.2018.pdb
+U:\Apr\Projekte\Übungen\SÜ 12.12.2018\obj\Debug\SÜ 12.12.2018.csproj.CoreCompileInputs.cache
+U:\Apr\Projekte\Übungen\SÜ 12.12.2018\obj\Debug\SÜ 12.12.2018.exe
+U:\Apr\Projekte\Übungen\SÜ 12.12.2018\obj\Debug\SÜ 12.12.2018.pdb

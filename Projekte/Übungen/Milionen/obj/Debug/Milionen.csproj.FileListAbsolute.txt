@@ -1,0 +1,7 @@
+U:\Apr\Projekte\Übungen\Milionen\obj\Debug\Milionen.csprojAssemblyReference.cache
+U:\Apr\Projekte\Übungen\Milionen\obj\Debug\Milionen.csproj.CoreCompileInputs.cache
+U:\Apr\Projekte\Übungen\Milionen\bin\Debug\Milionen.exe.config
+U:\Apr\Projekte\Übungen\Milionen\bin\Debug\Milionen.exe
+U:\Apr\Projekte\Übungen\Milionen\bin\Debug\Milionen.pdb
+U:\Apr\Projekte\Übungen\Milionen\obj\Debug\Milionen.exe
+U:\Apr\Projekte\Übungen\Milionen\obj\Debug\Milionen.pdb

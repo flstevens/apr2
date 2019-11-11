@@ -1,0 +1,7 @@
+U:\Apr\Projekte\Übungen\Adresssbuch\bin\Debug\Adresssbuch.exe.config
+U:\Apr\Projekte\Übungen\Adresssbuch\bin\Debug\Adresssbuch.exe
+U:\Apr\Projekte\Übungen\Adresssbuch\bin\Debug\Adresssbuch.pdb
+U:\Apr\Projekte\Übungen\Adresssbuch\obj\Debug\Adresssbuch.csprojAssemblyReference.cache
+U:\Apr\Projekte\Übungen\Adresssbuch\obj\Debug\Adresssbuch.csproj.CoreCompileInputs.cache
+U:\Apr\Projekte\Übungen\Adresssbuch\obj\Debug\Adresssbuch.exe
+U:\Apr\Projekte\Übungen\Adresssbuch\obj\Debug\Adresssbuch.pdb

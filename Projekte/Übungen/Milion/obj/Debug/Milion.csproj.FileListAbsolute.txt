@@ -1,0 +1,6 @@
+U:\Apr\Projekte\Übungen\Milion\bin\Debug\Milion.exe.config
+U:\Apr\Projekte\Übungen\Milion\bin\Debug\Milion.exe
+U:\Apr\Projekte\Übungen\Milion\bin\Debug\Milion.pdb
+U:\Apr\Projekte\Übungen\Milion\obj\Debug\Milion.csproj.CoreCompileInputs.cache
+U:\Apr\Projekte\Übungen\Milion\obj\Debug\Milion.exe
+U:\Apr\Projekte\Übungen\Milion\obj\Debug\Milion.pdb

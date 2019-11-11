@@ -1,0 +1,7 @@
+U:\Apr\Projekte\Hallo Welt\Hallo Welt\obj\Debug\Hallo Welt.csprojAssemblyReference.cache
+U:\Apr\Projekte\Hallo Welt\Hallo Welt\obj\Debug\Hallo Welt.csproj.CoreCompileInputs.cache
+U:\Apr\Projekte\Hallo Welt\Hallo Welt\bin\Debug\Hallo Welt.exe.config
+U:\Apr\Projekte\Hallo Welt\Hallo Welt\bin\Debug\Hallo Welt.exe
+U:\Apr\Projekte\Hallo Welt\Hallo Welt\bin\Debug\Hallo Welt.pdb
+U:\Apr\Projekte\Hallo Welt\Hallo Welt\obj\Debug\Hallo Welt.exe
+U:\Apr\Projekte\Hallo Welt\Hallo Welt\obj\Debug\Hallo Welt.pdb

@@ -1,0 +1,6 @@
+U:\Apr\Projekte\Übungen\18.2.2019 V3\bin\Debug\18.2.2019 V3.exe.config
+U:\Apr\Projekte\Übungen\18.2.2019 V3\bin\Debug\18.2.2019 V3.exe
+U:\Apr\Projekte\Übungen\18.2.2019 V3\bin\Debug\18.2.2019 V3.pdb
+U:\Apr\Projekte\Übungen\18.2.2019 V3\obj\Debug\18.2.2019 V3.csproj.CoreCompileInputs.cache
+U:\Apr\Projekte\Übungen\18.2.2019 V3\obj\Debug\18.2.2019 V3.exe
+U:\Apr\Projekte\Übungen\18.2.2019 V3\obj\Debug\18.2.2019 V3.pdb

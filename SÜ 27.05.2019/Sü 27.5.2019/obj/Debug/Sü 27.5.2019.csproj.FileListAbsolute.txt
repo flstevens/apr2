@@ -1,0 +1,7 @@
+U:\Apr\SÜ 27.05.2019\Sü 27.5.2019\obj\Debug\Sü 27.5.2019.csprojAssemblyReference.cache
+U:\Apr\SÜ 27.05.2019\Sü 27.5.2019\obj\Debug\Sü 27.5.2019.csproj.CoreCompileInputs.cache
+U:\Apr\SÜ 27.05.2019\Sü 27.5.2019\bin\Debug\Sü 27.5.2019.exe.config
+U:\Apr\SÜ 27.05.2019\Sü 27.5.2019\bin\Debug\Sü 27.5.2019.exe
+U:\Apr\SÜ 27.05.2019\Sü 27.5.2019\bin\Debug\Sü 27.5.2019.pdb
+U:\Apr\SÜ 27.05.2019\Sü 27.5.2019\obj\Debug\Sü 27.5.2019.exe
+U:\Apr\SÜ 27.05.2019\Sü 27.5.2019\obj\Debug\Sü 27.5.2019.pdb

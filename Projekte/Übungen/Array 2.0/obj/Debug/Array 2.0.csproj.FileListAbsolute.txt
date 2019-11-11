@@ -1,0 +1,6 @@
+U:\Apr\Projekte\Übungen\Array 2.0\bin\Debug\Array 2.0.exe.config
+U:\Apr\Projekte\Übungen\Array 2.0\bin\Debug\Array 2.0.exe
+U:\Apr\Projekte\Übungen\Array 2.0\bin\Debug\Array 2.0.pdb
+U:\Apr\Projekte\Übungen\Array 2.0\obj\Debug\Array 2.0.csproj.CoreCompileInputs.cache
+U:\Apr\Projekte\Übungen\Array 2.0\obj\Debug\Array 2.0.exe
+U:\Apr\Projekte\Übungen\Array 2.0\obj\Debug\Array 2.0.pdb

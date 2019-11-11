@@ -1,0 +1,7 @@
+U:\Apr\Projekte\Übungen\Zähler\bin\Debug\Zähler.exe.config
+U:\Apr\Projekte\Übungen\Zähler\bin\Debug\Zähler.exe
+U:\Apr\Projekte\Übungen\Zähler\bin\Debug\Zähler.pdb
+U:\Apr\Projekte\Übungen\Zähler\obj\Debug\Zähler.csproj.CoreCompileInputs.cache
+U:\Apr\Projekte\Übungen\Zähler\obj\Debug\Zähler.exe
+U:\Apr\Projekte\Übungen\Zähler\obj\Debug\Zähler.pdb
+U:\Apr\Projekte\Übungen\Zähler\obj\Debug\Zähler.csprojAssemblyReference.cache

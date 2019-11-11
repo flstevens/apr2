@@ -1,0 +1,7 @@
+U:\Apr\Projekte\Übungen\18.2.2019\bin\Debug\18.2.2019.exe.config
+U:\Apr\Projekte\Übungen\18.2.2019\bin\Debug\18.2.2019.exe
+U:\Apr\Projekte\Übungen\18.2.2019\bin\Debug\18.2.2019.pdb
+U:\Apr\Projekte\Übungen\18.2.2019\obj\Debug\18.2.2019.csprojAssemblyReference.cache
+U:\Apr\Projekte\Übungen\18.2.2019\obj\Debug\18.2.2019.csproj.CoreCompileInputs.cache
+U:\Apr\Projekte\Übungen\18.2.2019\obj\Debug\18.2.2019.exe
+U:\Apr\Projekte\Übungen\18.2.2019\obj\Debug\18.2.2019.pdb

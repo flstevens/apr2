@@ -1,0 +1,7 @@
+U:\Apr\Projekte\Übungen\Übung 19.12.2018 V2\obj\Debug\Übung 19.12.2018 V2.csproj.CoreCompileInputs.cache
+U:\Apr\Projekte\Übungen\Übung 19.12.2018 V2\bin\Debug\Übung 19.12.2018 V2.exe.config
+U:\Apr\Projekte\Übungen\Übung 19.12.2018 V2\bin\Debug\Übung 19.12.2018 V2.exe
+U:\Apr\Projekte\Übungen\Übung 19.12.2018 V2\bin\Debug\Übung 19.12.2018 V2.pdb
+U:\Apr\Projekte\Übungen\Übung 19.12.2018 V2\obj\Debug\Übung 19.12.2018 V2.exe
+U:\Apr\Projekte\Übungen\Übung 19.12.2018 V2\obj\Debug\Übung 19.12.2018 V2.pdb
+U:\Apr\Projekte\Übungen\Übung 19.12.2018 V2\obj\Debug\Übung 19.12.2018 V2.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+U:\Apr\Projekte\Übungen\Übung 12.12.2018\bin\Debug\Übung 12.12.2018.exe.config
+U:\Apr\Projekte\Übungen\Übung 12.12.2018\bin\Debug\Übung 12.12.2018.exe
+U:\Apr\Projekte\Übungen\Übung 12.12.2018\bin\Debug\Übung 12.12.2018.pdb
+U:\Apr\Projekte\Übungen\Übung 12.12.2018\obj\Debug\Übung 12.12.2018.csprojAssemblyReference.cache
+U:\Apr\Projekte\Übungen\Übung 12.12.2018\obj\Debug\Übung 12.12.2018.csproj.CoreCompileInputs.cache
+U:\Apr\Projekte\Übungen\Übung 12.12.2018\obj\Debug\Übung 12.12.2018.exe
+U:\Apr\Projekte\Übungen\Übung 12.12.2018\obj\Debug\Übung 12.12.2018.pdb

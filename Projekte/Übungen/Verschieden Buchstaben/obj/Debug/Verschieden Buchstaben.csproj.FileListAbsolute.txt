@@ -1,0 +1,7 @@
+U:\Apr\Projekte\Übungen\Verschieden Buchstaben\bin\Debug\Verschieden Buchstaben.exe.config
+U:\Apr\Projekte\Übungen\Verschieden Buchstaben\bin\Debug\Verschieden Buchstaben.exe
+U:\Apr\Projekte\Übungen\Verschieden Buchstaben\bin\Debug\Verschieden Buchstaben.pdb
+U:\Apr\Projekte\Übungen\Verschieden Buchstaben\obj\Debug\Verschieden Buchstaben.csprojAssemblyReference.cache
+U:\Apr\Projekte\Übungen\Verschieden Buchstaben\obj\Debug\Verschieden Buchstaben.csproj.CoreCompileInputs.cache
+U:\Apr\Projekte\Übungen\Verschieden Buchstaben\obj\Debug\Verschieden Buchstaben.exe
+U:\Apr\Projekte\Übungen\Verschieden Buchstaben\obj\Debug\Verschieden Buchstaben.pdb

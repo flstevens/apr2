@@ -1,0 +1,6 @@
+U:\Apr\Projekte\Übungen\22.05.2019 Wortketten\bin\Debug\22.05.2019 Wortketten.exe.config
+U:\Apr\Projekte\Übungen\22.05.2019 Wortketten\bin\Debug\22.05.2019 Wortketten.exe
+U:\Apr\Projekte\Übungen\22.05.2019 Wortketten\bin\Debug\22.05.2019 Wortketten.pdb
+U:\Apr\Projekte\Übungen\22.05.2019 Wortketten\obj\Debug\22.05.2019 Wortketten.csproj.CoreCompileInputs.cache
+U:\Apr\Projekte\Übungen\22.05.2019 Wortketten\obj\Debug\22.05.2019 Wortketten.exe
+U:\Apr\Projekte\Übungen\22.05.2019 Wortketten\obj\Debug\22.05.2019 Wortketten.pdb

@@ -1,0 +1,6 @@
+U:\Apr\Projekte\Übungen\29.05.2019 Liste\bin\Debug\29.05.2019 Liste.exe.config
+U:\Apr\Projekte\Übungen\29.05.2019 Liste\bin\Debug\29.05.2019 Liste.exe
+U:\Apr\Projekte\Übungen\29.05.2019 Liste\bin\Debug\29.05.2019 Liste.pdb
+U:\Apr\Projekte\Übungen\29.05.2019 Liste\obj\Debug\29.05.2019 Liste.csproj.CoreCompileInputs.cache
+U:\Apr\Projekte\Übungen\29.05.2019 Liste\obj\Debug\29.05.2019 Liste.exe
+U:\Apr\Projekte\Übungen\29.05.2019 Liste\obj\Debug\29.05.2019 Liste.pdb

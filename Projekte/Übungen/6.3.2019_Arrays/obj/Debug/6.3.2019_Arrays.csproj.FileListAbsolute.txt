@@ -1,0 +1,6 @@
+U:\Apr\Projekte\Übungen\6.3.2019_Arrays\bin\Debug\6.3.2019_Arrays.exe.config
+U:\Apr\Projekte\Übungen\6.3.2019_Arrays\bin\Debug\6.3.2019_Arrays.exe
+U:\Apr\Projekte\Übungen\6.3.2019_Arrays\bin\Debug\6.3.2019_Arrays.pdb
+U:\Apr\Projekte\Übungen\6.3.2019_Arrays\obj\Debug\6.3.2019_Arrays.csproj.CoreCompileInputs.cache
+U:\Apr\Projekte\Übungen\6.3.2019_Arrays\obj\Debug\6.3.2019_Arrays.exe
+U:\Apr\Projekte\Übungen\6.3.2019_Arrays\obj\Debug\6.3.2019_Arrays.pdb
