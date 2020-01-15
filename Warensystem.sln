@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warensystem", "Warensystem.csproj", "{86887BB0-7137-41A9-A370-881F0D440324}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86887BB0-7137-41A9-A370-881F0D440324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86887BB0-7137-41A9-A370-881F0D440324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86887BB0-7137-41A9-A370-881F0D440324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86887BB0-7137-41A9-A370-881F0D440324}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCD12758-1DFE-44F2-A1E3-F4580A9EB159}
+	EndGlobalSection
+EndGlobal
