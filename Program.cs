@@ -4,65 +4,27 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Buch
+namespace APR_HÜ
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Person max = new Person();
-            max.Firstname = "Max";
-            max.Surname = "Huber";
+            Gespraech g1 = new Gespraech("Besprechung der HÜ");
 
-            Book b = new Book();
-            b.Author = max;
+            g1.Begin = DateTime.Parse("2020-02-26 14:01");
+            g1.End = DateTime.Parse("2020-02-26 14:05");
+            g1.Minute();
 
-            Page p1 = new Page() { Text = "Lorem", Pagenumber = "1" };
-            b.Pages.Add(p1);
-
-            Page p2 = new Page() { Text = "Lorem 2", Pagenumber = "2" };
-            b.Pages.Add(p2);
-           
-            Console.WriteLine(b.Author.Firstname);
-            Console.WriteLine(String.Format("{0} {1}", b.Author.Firstname, b.Author.Surname));
+            Gespraech g2 = new Gespraech("Besprechung des aktuellen Projektes");
+            g2.Begin = DateTime.Parse("2020-02-26 14:11");
+            g2.End = DateTime.Parse("2020-02-26 15:00");
+            g2.Minute();
 
 
+            int dauer = g1.Minuten + g2.Minuten;
+            Console.WriteLine("Dauer der Gespräche: {0}", dauer);
 
-            Console.ReadLine();
         }
-    }
-    /*
-     * Seiten 
-     * Cover
-     * Title
-     * Ator
-     * verlag
-     * Preis
-     * ...
-     */
-     class Book
-    {
-        public string Title { get; set; }
-        public Person Author { get; set; }
-
-        public List<Page> Pages { get; set; }
-
-        public Book()
-        {
-            Pages = new List<Page>();
-        }
-    }
-
-    class Person
-    {
-        public string Firstname { get; set; }
-        public string Surname { get; set; }
-
-    }
-
-    class Page
-    {
-        public string Text { get; set; }
-        public string Pagenumber { get; set; }
     }
 }

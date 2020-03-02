@@ -1,0 +1,7 @@
+C:\Users\Florian\source\repos\Übung\APR HÜ\APR HÜ\bin\Debug\APR HÜ.exe.config
+C:\Users\Florian\source\repos\Übung\APR HÜ\APR HÜ\bin\Debug\APR HÜ.exe
+C:\Users\Florian\source\repos\Übung\APR HÜ\APR HÜ\bin\Debug\APR HÜ.pdb
+C:\Users\Florian\source\repos\Übung\APR HÜ\APR HÜ\obj\Debug\APR HÜ.csprojAssemblyReference.cache
+C:\Users\Florian\source\repos\Übung\APR HÜ\APR HÜ\obj\Debug\APR HÜ.csproj.CoreCompileInputs.cache
+C:\Users\Florian\source\repos\Übung\APR HÜ\APR HÜ\obj\Debug\APR HÜ.exe
+C:\Users\Florian\source\repos\Übung\APR HÜ\APR HÜ\obj\Debug\APR HÜ.pdb
